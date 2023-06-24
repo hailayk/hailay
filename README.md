@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @hailayk
-- 👀 I’m interested in Machine Learning 
+- 👋 Hi,  
+- 👀 I’m interested in  NLP and Machine Learning Put it all together
+-  conversational AI
+- Fake news , Toxic language and disinformation , mis information 
 - 🌱 I’m currently learning PhD
-- 💞️ I’m looking to collaborate on Fake News Detection 
-- 📫 How to reach me hailiyekidu@gmail.com
+
+- 📫 How to reach me hailay.kidu@mu.edu.et 
 
 <!---
-hailayk/hailayk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nova s a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
